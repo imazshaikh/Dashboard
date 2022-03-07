@@ -1,0 +1,140 @@
+@media (min-width:320px) and (max-width:480px) {
+
+    header{
+        height: 100vh;
+        width: 8%;
+    }
+
+    main{
+        width: 91%;
+        margin: 2% 9%;
+    }
+
+    .main-head {
+        padding: 10px;
+    }
+
+    .main-head h1{
+        font-size: 20px;
+    }
+
+    .logo a{
+        width: 90%;
+    }
+
+    
+    .nav-list li a i{
+        font-size: 15px;
+        padding: 0px;
+    }
+
+    .nav-list li a i:hover{
+        border: 1px solid #ffffff;
+	    padding: 2px;
+    }
+
+
+    .sub-sec{
+        width: 100%;
+        flex-wrap: wrap;
+        padding: 5px
+    }
+
+    .sub-sec h3{
+        text-align: center;
+        margin: 10px;
+    }
+
+    .sub-sec h3 a{
+        font-size: 12px;
+        padding: 0 5px;
+    }
+
+    .wel-txt{
+        border: 10px solid #dee6ec;
+    }
+
+    .wel-txt h2{
+        font-size: 15px;
+    }
+
+    .wel-txt p{
+        font-size: 12px;
+    }
+
+    .details-sec{
+        flex-wrap: wrap;
+    }
+
+    .details-lft, .details-rgt{
+        width: 100%
+    }
+
+    .details-lft h2{
+        font-size: 13px;
+    }
+
+    .img-blk div:nth-child(2) h3{
+        font-size: 16px;
+    }
+
+    .employee-card div:nth-child(2) p{
+        font-size: 11px;
+    }
+
+    .goal-content{
+        flex-wrap: wrap;
+    }
+
+    .goal-1{
+        width: 43%;
+        margin: 10px;
+    }
+
+    .prsnl-table{
+        font-size: 12px;
+        padding: 10px;
+    }
+
+    .btn{
+        margin: 10px 10px 10px 0;
+    }
+
+    /* My-cell.html page css  */
+
+    /* Workload in Number  */
+
+    .tbl-cell-1{
+        width: 100%;
+    }
+
+    .empty{
+        width: 98%;
+        height: 310px;
+    }
+
+    .gbl-content{
+        width: 90%;
+    }
+
+    /* Account_analysis.html page css  */
+
+    .drp-dwn select {
+        margin: 10px;
+    }
+
+    .mr-top{
+        padding: 10px;
+    }
+
+    .gbl-head div:nth-child(6){
+        padding: 10px;
+    }
+
+
+    /* Employee Directory page css */
+
+    .tbl-spc{
+        overflow: scroll;
+    }
+}
